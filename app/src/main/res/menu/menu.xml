@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/wordLst"
+        android:title="Word List" />
+    <item
+        android:id="@+id/importDB"
+        android:title="Import DB" />
+    <item
+        android:id="@+id/exportDB"
+        android:title="Export DB" />
+    <item
+        android:id="@+id/aboutUs"
+        android:orderInCategory="100"
+        android:title="About Us" />
+</menu>
